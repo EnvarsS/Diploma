@@ -5,7 +5,6 @@ import lombok.Data;
 @Data
 public class NodePath {
     private NodeGrid node;
-
     private NodePath parent;
 
     private double g;

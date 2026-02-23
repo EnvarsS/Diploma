@@ -15,7 +15,6 @@ import java.util.List;
 public class NodeGrid {
     @EqualsAndHashCode.Include
     private int id;
-
     private int x;
     private int y;
 
